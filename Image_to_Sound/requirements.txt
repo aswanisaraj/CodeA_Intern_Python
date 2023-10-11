@@ -1,0 +1,23 @@
+# OCR and Speech Synthesis
+pytesseract==0.3.8
+Pillow==8.3.1
+gTTS==2.2.3
+
+
+
+##You can create a requirements.txt file like the one above and use it to install the required dependencies using pip:
+
+1)Open a text editor.
+
+2)Copy and paste the content provided above into the text editor.
+
+3)Save the file with the name requirements.txt.
+
+
+
+Run the following command to install the listed packages:
+
+
+pip install -r requirements.txt
+
+This command will read the requirements.txt file and install the specified versions of the required packages. It ensures that project has the necessary dependencies to perform OCR and speech synthesis using Python and pytesseract.
